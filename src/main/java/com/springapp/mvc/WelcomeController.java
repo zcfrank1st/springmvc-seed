@@ -22,4 +22,6 @@ public class WelcomeController {
     public String demo () {
         return "hahah";
     }
+
+    // TODO  设置dispatcher
 }
